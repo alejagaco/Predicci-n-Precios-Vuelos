@@ -1,6 +1,14 @@
-Predicción precios de tiquetes aéreos
+**Predicción precios de tiquetes aéreos**
 
-El dataset contiene información de reservas de vuelos realizados en la página web Easemytrip, vuelos realizados entre las ciudadades principales de la India.
+Información de tiquetes aéreos reservados entre el 11 de Febrero 2022 y el 31 Marzo 2022.
+ * Vuelos realizados entre las 6 principales ciudades de la India: Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai. 
+ * Vuelos de 6 aerolíneas: Vistara, Air India, Spice Jet, Go First, Indigo y Airasia.
+ * Vuelos directos y con escalas.
+ * Vuelos reservados en clase económica y business
+ * Días entre la fecha de reserva y el vuelo.
+ * Duración del vuelo en horas.
+
+
 
 Fuente de datos: Kaggle
 
