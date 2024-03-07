@@ -20,7 +20,7 @@ Modelo Machine Learning:
  * Definir un modelo de regresión para predecir los precios de los tiquetes aéreos. 
 
 
-
+Lenguaje de programacion Python
 
 Fuente de datos: Kaggle
 
